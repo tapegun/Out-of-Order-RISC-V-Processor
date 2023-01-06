@@ -1,0 +1,6 @@
+# don't save simulation files
+sim/
+verdi/
+mp4/bin/
+sim
+synth
